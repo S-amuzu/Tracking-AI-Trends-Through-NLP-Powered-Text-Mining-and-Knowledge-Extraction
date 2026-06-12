@@ -4,9 +4,6 @@
 End-to-end NLP project analyzing over 16,000 AI media articles to track emerging AI trends, extract knowledge, and build an 
 intelligent Q&A system.
 
-Completed as part of the Computational Language Technologies course at 
-HSLU, in collaboration with Anacode GmbH and Google DeepMind.
-
 ## Project Stages
 
 ### Stage 1: Data Cleaning, Preprocessing & Exploratory Analysis
